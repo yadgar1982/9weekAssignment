@@ -1,0 +1,104 @@
+.nav{
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+    font-display:inherit;
+    color:linear-gradient(90deg, rgb(233, 183, 153) 20%, rgb(249, 249, 249) 35%, rgb(103, 128, 127) 100%);
+
+}
+
+.h1{
+    font-size:x-large;
+    color:rgb(198, 233, 62);
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    font-weight: 200px;
+    color:darkslateblue;
+    font-display:initial;
+    -webkit-text-stroke-width: 0.9px;
+    -webkit-text-stroke-color: rgb(150, 204, 199);
+    text-shadow: 3px 3px 15px #b9d741;
+}
+.p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 200px;
+    color:darkgoldenrod;
+    font-display:initial;
+}
+
+body{
+    background-image: linear-gradient(45deg, rgb(10, 10, 10) 10%, rgb(202, 130, 121) 20%, rgb(141, 227, 174) 100%);
+}
+.p{
+    font-size: 16;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: var(font-display);
+    color:aliceblue;
+    align-content:flex-end;
+}
+
+textarea{
+    border-color: darkorange;
+    background-color: rgb(245, 247, 248);
+    font-size: 18px;
+    max-width: 1450px;
+    align-content: center;
+    box-shadow: #8cc80c 12 px;
+    -webkit-box-stroke-width: 1200px;
+    -webkit-box-stroke-color: black;
+    box-shadow: 3px 3px 15px #3d433a;
+    width:responsive;
+    border-radius: 0.3rem;
+
+    
+    
+}
+
+
+table{
+    border-collapse:collapse;
+
+
+
+}
+
+th{
+    font-size:15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:60px;
+    height:25px;
+    border-radius: 3;
+    border-color: chocolate;
+    border:1px;
+    border-style: solid;
+    width:1200px;
+    background-color: rgb(180, 188, 169);
+
+
+    
+}
+td {
+    font-size:15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:60px;
+    height:25px;
+    border-radius: 3;
+    border-color: chocolate;
+    border:1px;
+    border-style: solid;
+    width:1200px;
+    background-color: lightcyan;
+
+
+    
+}
+.nav{
+    background-color: #787777;
+    content:normal;
+    font-size: 14px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style:calc(darkgoldenrod);
+}
